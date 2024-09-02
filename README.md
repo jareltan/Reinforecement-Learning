@@ -5,7 +5,7 @@
 
 This project involves the development and evaluation of a Reinforcement Learning (RL) agent to solve the CartPole-v1 environment using Q-learning. The project is structured into several tasks, each contributing to the creation of an efficient and effective RL agent.
 
-![Alt Text](/workspaces/Reinforecement-Learning/CartPole.gif)
+![CartPole Simulation](CartPole.gif)
 
 ### Key Features:
 - **Task 1: Development of an RL Agent**  
